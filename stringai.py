@@ -51,20 +51,22 @@ import random
 starWars = "Star Wars: Episode " + (" " * random.randint(1, 9)) + str(random.randint(1, 7)) + " - A New Hope"
 print(starWars)
 
-x = starWars.find("[1234567890]")
+numbers = set('123456789')
+
+x = starWars.find(numbers)
 print(starWars[x])
 
-y = starWars.rfind("1234567890")
-print(starWars[y])
-
-z = starWars.index("1234567890")
-print(starWars[z])
-
-u = starWars.index("[1, 2, 3, 4, 5, 6, 7, 8, 9, 0]")
-print(starWars[u])
-
-w = starWars.index("1, 2, 3, 4, 5, 6, 7, 8, 9, 0")
-print(starWars[w])
+# y = starWars.rfind("1234567890")
+# print(starWars[y])
+#
+# z = starWars.index("1234567890")
+# print(starWars[z])
+#
+# u = starWars.index("[1, 2, 3, 4, 5, 6, 7, 8, 9, 0]")
+# print(starWars[u])
+#
+# w = starWars.index("1, 2, 3, 4, 5, 6, 7, 8, 9, 0")
+# print(starWars[w])
 
 
 
