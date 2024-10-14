@@ -92,6 +92,7 @@
       <updated>1728628150233</updated>
       <workItem from="1728628155439" duration="13761000" />
       <workItem from="1728886047228" duration="14000" />
+      <workItem from="1728908699630" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="Stringai i gita">
       <option name="closed" value="true" />
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728657932787</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stringai i gita">
+      <option name="closed" value="true" />
+      <created>1728908981421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728908981421</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
