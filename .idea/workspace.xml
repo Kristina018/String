@@ -93,7 +93,7 @@
       <updated>1728628150233</updated>
       <workItem from="1728628155439" duration="13761000" />
       <workItem from="1728886047228" duration="14000" />
-      <workItem from="1728908699630" duration="12891000" />
+      <workItem from="1728908699630" duration="21358000" />
     </task>
     <task id="LOCAL-00001" summary="Stringai i gita">
       <option name="closed" value="true" />
@@ -199,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728913997774</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Stringai i gita">
+      <option name="closed" value="true" />
+      <created>1728985434172</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728985434173</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +230,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/String$stringai.coverage" NAME="stringai Coverage Results" MODIFIED="1728910150779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/String$masyvai.coverage" NAME="masyvai Coverage Results" MODIFIED="1728983805205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject1" />
+    <SUITE FILE_PATH="coverage/String$masyvai.coverage" NAME="masyvai Coverage Results" MODIFIED="1728997083115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject1" />
   </component>
 </project>
