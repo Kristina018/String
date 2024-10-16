@@ -94,7 +94,7 @@
       <workItem from="1728628155439" duration="13761000" />
       <workItem from="1728886047228" duration="14000" />
       <workItem from="1728908699630" duration="24686000" />
-      <workItem from="1729058650069" duration="351000" />
+      <workItem from="1729058650069" duration="6581000" />
     </task>
     <task id="LOCAL-00001" summary="Stringai i gita">
       <option name="closed" value="true" />
@@ -224,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729005329545</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Stringai i gita">
+      <option name="closed" value="true" />
+      <created>1729059367455</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729059367456</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +254,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/String$stringai.coverage" NAME="stringai Coverage Results" MODIFIED="1728910150779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/String$masyvai.coverage" NAME="masyvai Coverage Results" MODIFIED="1729000502102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject1" />
+    <SUITE FILE_PATH="coverage/String$stringai.coverage" NAME="stringai Coverage Results" MODIFIED="1729059331446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/String$masyvai.coverage" NAME="masyvai Coverage Results" MODIFIED="1729067733412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject1" />
   </component>
 </project>
